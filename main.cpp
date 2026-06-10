@@ -11,28 +11,8 @@ void Menu()
 		<< "(4) Daten entfernen" << endl
 		<< "(5) Daten hinzufügen" << endl
 		<< "(6) Daten speichern " << endl;
-
-
-
-
-
-
-
-
-
-
-
-
 cin >> _stateMenu;
-
-
-
-
 }
-
-
-
-
 
 void main()
 {
@@ -121,21 +101,8 @@ void main()
 			cout << "Falsche Auswahl des Menüpunkts" << endl;
 			break;
 
-
-
-
-
-
-
-
-
-
 		}
 		
-
-		
-
-
 	}
 	system("cls");
 	if (DataCleaning())
@@ -145,13 +112,6 @@ void main()
 
 	cout << "Arbeit abgeschlossen" << endl;
 	system("pause");
-		
-
-
-
-
-
-
 
 }
 
