@@ -1,4 +1,4 @@
-# contact-managment-system-cpp
+# contact-management-system-cpp
 Console application for managing contact records.
 Features
 	•	Add new contacts
